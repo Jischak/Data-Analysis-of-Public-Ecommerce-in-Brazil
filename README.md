@@ -1,5 +1,5 @@
 # Data-Analysis-of-Public-Ecommerce-in-Brazil
-Analisa data dari Public E-commerce di Brazil. Apa yang dianalisa? Category Product Analysis.
+Data analysis of Public E-commerce in Brazil. What was analyzed? Category Product Analysis and so on.
 
 ## Dataset Source
 https://drive.google.com/drive/folders/1BeKeQYITva5C6Ynb3-0WoikPw0HXNVo1?usp=sharing
