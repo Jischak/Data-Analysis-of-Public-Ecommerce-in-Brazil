@@ -8,7 +8,9 @@ All my code, I run on Google Collab. But if you want to run it on local (using a
 ## Dataset Source
 Link Data source -> https://drive.google.com/drive/folders/1BeKeQYITva5C6Ynb3-0WoikPw0HXNVo1?usp=sharing
 
-## Portfolio: Product Category Analysis of Public E-commerce in Brazil
-https://drive.google.com/drive/folders/1MNcxIgpynO78XURlA5Nbsfdg_rbJncrm?usp=sharing
+## Portfolio:
+1. Product Category Analysis of Public E-commerce in Brazil -> https://drive.google.com/drive/folders/1MNcxIgpynO78XURlA5Nbsfdg_rbJncrm?usp=sharing
+2. ...
+3. ...
 
 
